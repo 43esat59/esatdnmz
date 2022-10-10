@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7RmN0Ee1d+7xQJSYIn7FD7i64moBEHcOPQv8xKOmw56H7Q9PcukRd3mXR01QvJMV52nyed3WNjSk+ICzh/LtBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\polstar\\source\\repos\\vizefinal\\vizefinal\\vizefinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\polstar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

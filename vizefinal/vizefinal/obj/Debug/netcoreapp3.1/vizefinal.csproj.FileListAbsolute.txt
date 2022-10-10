@@ -1,0 +1,16 @@
+C:\Users\polstar\source\repos\vizefinal\vizefinal\bin\Debug\netcoreapp3.1\vizefinal.exe
+C:\Users\polstar\source\repos\vizefinal\vizefinal\bin\Debug\netcoreapp3.1\vizefinal.deps.json
+C:\Users\polstar\source\repos\vizefinal\vizefinal\bin\Debug\netcoreapp3.1\vizefinal.runtimeconfig.json
+C:\Users\polstar\source\repos\vizefinal\vizefinal\bin\Debug\netcoreapp3.1\vizefinal.runtimeconfig.dev.json
+C:\Users\polstar\source\repos\vizefinal\vizefinal\bin\Debug\netcoreapp3.1\vizefinal.dll
+C:\Users\polstar\source\repos\vizefinal\vizefinal\bin\Debug\netcoreapp3.1\vizefinal.pdb
+C:\Users\polstar\source\repos\vizefinal\vizefinal\obj\Debug\netcoreapp3.1\vizefinal.csproj.AssemblyReference.cache
+C:\Users\polstar\source\repos\vizefinal\vizefinal\obj\Debug\netcoreapp3.1\vizefinal.Form1.resources
+C:\Users\polstar\source\repos\vizefinal\vizefinal\obj\Debug\netcoreapp3.1\vizefinal.csproj.GenerateResource.cache
+C:\Users\polstar\source\repos\vizefinal\vizefinal\obj\Debug\netcoreapp3.1\vizefinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polstar\source\repos\vizefinal\vizefinal\obj\Debug\netcoreapp3.1\vizefinal.AssemblyInfoInputs.cache
+C:\Users\polstar\source\repos\vizefinal\vizefinal\obj\Debug\netcoreapp3.1\vizefinal.AssemblyInfo.cs
+C:\Users\polstar\source\repos\vizefinal\vizefinal\obj\Debug\netcoreapp3.1\vizefinal.csproj.CoreCompileInputs.cache
+C:\Users\polstar\source\repos\vizefinal\vizefinal\obj\Debug\netcoreapp3.1\vizefinal.dll
+C:\Users\polstar\source\repos\vizefinal\vizefinal\obj\Debug\netcoreapp3.1\vizefinal.pdb
+C:\Users\polstar\source\repos\vizefinal\vizefinal\obj\Debug\netcoreapp3.1\vizefinal.genruntimeconfig.cache
